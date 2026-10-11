@@ -1,0 +1,11 @@
+{
+  "org": "pallets",
+  "repo": "flask-ext-migrate",
+  "versions": [
+    {
+      "commit": "913e598e602979959a095d93057a6f7e0f3e0e05",
+      "tag": "1.0.1",
+      "parsed_at": "2026-10-11T07:58:48.879412+00:00"
+    }
+  ]
+}
