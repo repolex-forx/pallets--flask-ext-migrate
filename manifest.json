@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "pallets",
+  "repo": "flask-ext-migrate",
+  "versions": [
+    {
+      "commit": "913e598e602979959a095d93057a6f7e0f3e0e05",
+      "parsed_at": "2026-10-11T07:56:37.227791+00:00",
+      "tag": "1.0.1",
+      "filetree": "filetree/913e598e602979959a095d93057a6f7e0f3e0e05.nq.gz",
+      "blobs": [
+        "blob/98a3a26b5cd3b5602e3e0126294cc9db0a8d9d03.nq.gz",
+        "blob/58f9a1daf12905a30925f1e0ab57630fa8eb5ab1.nq.gz",
+        "blob/77a8cc9972a149321fc338693b158d4a3e93c114.nq.gz",
+        "blob/4bf5d8ee3f66423172f4e835e5b7af3e8abf923f.nq.gz",
+        "blob/2b07072a6a31b73e9f1278b06fccdf81a6620ab9.nq.gz",
+        "blob/fb09488773f4c34142047fd6042916ef1e6e8944.nq.gz",
+        "blob/41c230ca54899094a6f4f1bcc93159269a6dc51b.nq.gz",
+        "blob/0fe04a342d853adcd545a3558bd1c057842d9cbd.nq.gz",
+        "blob/0a1005fb80541eff3023908c1b261174c50f34a7.nq.gz",
+        "blob/bb8f9cbd16da383c1719e50273169cf21be70920.nq.gz",
+        "blob/7541e187073f84d5c64874b0b878021648629614.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/49ae4100e9c58f269f56b6bf4af6f17af919298b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
